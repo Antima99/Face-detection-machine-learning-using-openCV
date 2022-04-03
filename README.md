@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Antima99
-- 👀 I’m interested in javascript, python
-- 🌱 I’m currently  trying all apparently
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me @abhinavids 
+- 👋 Hi, I’m @Durgesh_singh
+- 👀 I’m interested in web development, blockchain, IOT
+- 🌱 I’m currently trying react.js, node.js , typescript, javascript, python etc. 
+- 📫 How to reach me at instagram @abhinavids 
 
 <!---
 Antima99/Antima99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
